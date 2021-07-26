@@ -7,4 +7,8 @@ Andriod operating System
 Android is a mobile device operating system designed by Google for many cellar phone providers like Samsung.
 Features like share touching is a way to share cellar contacts and other information by touching one device with the other.
 The ability to use voice recognition to speak instructions to the operating system.
-Another great features that Android operating system offers is  facial and finger print recognition.
+Another great features that Android operating system offers is facial and finger print recognition.
+iOS operating system
+Apple is the developer of the iOS operating system known as iPhone, iPod Touch, and IPad.
+The iOS operating system offers Siri as their voice recognition app.
+Other features like the iCloud sync to mail, calendars, contacts, and other items
