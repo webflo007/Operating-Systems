@@ -12,3 +12,7 @@ iOS operating system
 Apple is the developer of the iOS operating system known as iPhone, iPod Touch, and IPad.
 The iOS operating system offers Siri as their voice recognition app.
 Other features like the iCloud sync to mail, calendars, contacts, and other items
+Windows Phone operating system
+Microsoft has developed their own version of cellar devise with special features that make it a unique device.
+The Windows Phone can sync with other devices to share files, photos, and other items.
+A special feature that Windows Phone offers the user is Geofencing which is a notification when a entering or exiting a geographical location.
